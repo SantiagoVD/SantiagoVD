@@ -1,4 +1,4 @@
-# 👋 Hola, soy Santiago Vizcarra
+#Hola, soy Santiago Vizcarra
 
 ### Full Stack Developer | Cloud & AI Engineer Junior
 
