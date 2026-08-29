@@ -1,42 +1,48 @@
 # 👋 Hola, soy Santiago Vizcarra
 
-### Backend Developer | Cloud & AI Engineer Junior
+### Full Stack Developer | Cloud & AI Engineer Junior
 
 Estudiante de Ingeniería de Software en 9no ciclo, con experiencia desarrollando
-soluciones backend, aplicaciones cloud, pipelines ETL y sistemas basados en
-Inteligencia Artificial.
+aplicaciones Full Stack, soluciones backend, arquitecturas cloud, pipelines ETL
+y sistemas basados en Inteligencia Artificial.
 
 Actualmente enfocado en:
 
+- 💻 Desarrollo Full Stack
+- ⚙️ Backend Development
+- 🎨 Frontend Development
 - ☁️ AWS y arquitecturas Serverless
 - 🤖 Inteligencia Artificial y Agentes
 - 🧠 LLMs, RAG y sistemas Multi-Agent
-- ⚙️ Backend Development
 - 📊 ETL y procesamiento de datos
 
 ---
 
 ## 🚀 Tecnologías
 
-### Backend
+### 💻 Full Stack
 
-C# · .NET · Python · FastAPI · Node.js · TypeScript · Java · Spring Boot
+React · TypeScript · JavaScript · Vite · Node.js · C# · .NET · Python · Java
 
-### Cloud
+### 🎨 Frontend
+
+React · TypeScript · JavaScript · Vite · HTML · CSS
+
+### ⚙️ Backend
+
+C# · .NET · Entity Framework Core · Python · FastAPI · Node.js · TypeScript · Java · Spring Boot
+
+### ☁️ Cloud
 
 AWS Lambda · API Gateway · S3 · SQS · IAM · CloudFormation · CloudWatch
 
-### Inteligencia Artificial
+### 🤖 Inteligencia Artificial
 
 LLMs · RAG · Multi-Agent Systems · Ollama · Qwen
 
-### Datos
+### 📊 Datos
 
 SQL · PostgreSQL · SQL Server · ETL · SSIS · Pandas · PyArrow
-
-### Frontend
-
-React · TypeScript · Vite
 
 ---
 
@@ -44,38 +50,52 @@ React · TypeScript · Vite
 
 ### 🤖 Agente IA para QA
 
-Sistema inteligente que analiza repositorios de software y verifica el
-cumplimiento de lineamientos de aseguramiento de calidad utilizando
-LLMs, RAG y agentes especializados.
+Sistema inteligente para analizar repositorios de software y verificar el
+cumplimiento de lineamientos de aseguramiento de calidad mediante LLMs,
+RAG y agentes especializados.
 
 ---
 
 ### 🧠 Multi-Agent Software Engineer
 
-Sistema multiagente capaz de analizar repositorios, ejecutar tareas de
-desarrollo, realizar modificaciones y validar código de manera automatizada.
+Plataforma Full Stack basada en agentes de IA capaz de analizar repositorios,
+automatizar tareas de desarrollo, realizar modificaciones sobre código y
+ejecutar procesos de validación.
+
+**Tecnologías:** Python · FastAPI · React · TypeScript · LLMs · Ollama · Qwen
 
 ---
 
 ### ☁️ DataInsight
 
-Arquitectura serverless en AWS para procesamiento de archivos utilizando:
+Aplicación Full Stack con arquitectura serverless en AWS para carga y
+procesamiento de archivos mediante eventos y procesamiento asíncrono.
 
-AWS Lambda · S3 · SQS · API Gateway · CloudFormation
+**Tecnologías:** C# · .NET · AWS Lambda · S3 · SQS · API Gateway · CloudFormation · React
 
 ---
 
 ### 📊 RetailFlow Serverless ETL
 
-Pipeline ETL Serverless en AWS para procesamiento, validación y transformación
-de datos utilizando arquitectura Bronze, Silver y Gold.
+Plataforma orientada al procesamiento automatizado de datos mediante un
+pipeline ETL Serverless en AWS.
+
+Implementa etapas de ingesta, validación, cuarentena, transformación y
+generación de capas Bronze, Silver y Gold.
+
+**Tecnologías:** Python · AWS Lambda · S3 · Pandas · PyArrow · CloudFormation
 
 ---
 
 ### 💈 Sistema de Gestión para Barbería
 
-Aplicación web Full Stack para reservas, administración y gestión de ventas,
-desarrollada con .NET, Entity Framework Core, PostgreSQL y React.
+Aplicación Full Stack para reservas, administración de clientes, servicios,
+ventas y gestión operativa de una barbería.
+
+Incluye una interfaz orientada al cliente y un panel administrativo para
+gestionar las operaciones del negocio.
+
+**Tecnologías:** C# · .NET · Entity Framework Core · PostgreSQL · React · TypeScript
 
 ---
 
@@ -83,10 +103,12 @@ desarrollada con .NET, Entity Framework Core, PostgreSQL y React.
 
 👉 https://portafolio-web-two-cyan.vercel.app/
 
+---
+
 ## 📫 Contacto
 
-LinkedIn:
+**LinkedIn:**  
 https://www.linkedin.com/in/santiago-vizcarra-0b5320395
 
-GitHub:
+**GitHub:**  
 https://github.com/SantiagoVD
